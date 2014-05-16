@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TypeManagement projectID="DCE.8B38B8D5-A651-138B-4D22-41BDD6F8C03B">
+	<Locations nextID="1">
+	<Location locID="T.0" href=".\crud-Model.etup"/></Locations>
+
+   <Types>
+   <Type id="DCE.04FA20CF-0E94-5AAD-235A-1230C16B747B" location="T.0" name="Unnamed"/></Types>
+
+	<IrresolvableTypes>
+	</IrresolvableTypes>
+
+</TypeManagement>
